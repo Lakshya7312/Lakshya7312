@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lakshya7312
 - 👀 I’m interested in Music, Coffee and Code!
-- 🌱 I’m currently learning Java & Pyton.
+- 🌱 I’m currently learning Java & Python.
 - 💞️ I’m looking to collaborate on JavaScript and React Native projects!
 - 📫 How to reach me, Email: msglakshya@gmail.com
 
