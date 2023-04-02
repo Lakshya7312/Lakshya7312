@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Lakshya7312
-- 👀 I’m interested in Music, Coffee and Code!
-- 🌱 I’m currently learning Java & Python.
-- 💞️ I’m looking to collaborate on JavaScript and React Native projects!
-- 📫 How to reach me, Email: msglakshya@gmail.com
+Hey there! I'm Lakshya, a 16-year-old developer with a passion for creating awesome things using React Native, HTML, CSS, and JavaScript. I'm always learning and expanding my skillset, and currently, I'm also diving into Java and Python!
+
+I'm eager to collaborate with others on projects that involve the languages I'm proficient in. If you're interested in working together, feel free to reach out via email! Let's create something amazing together.
+
 
 <!---
 Lakshya7312/Lakshya7312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
